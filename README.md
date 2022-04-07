@@ -4,7 +4,7 @@
 TESTED ON WINDOWS ONLY
 
 # How to use
-Download https://github.com/TonyThirtyTwo/Stellaris-Modpack-Tool/raw/main/ModpackTool.jar
+Download https://github.com/tonypepperoni43/Stellaris-Modpack-Tool/raw/main/ModpackTool.jar
 
 In the Stellaris launcher, go to 'All installed mods' and create a mod which will be the basis for your modpack. Then, have a playlist with all the mods you want to have in a modpack (load order is still important here, for the modpack to work your playlist should also work). You will want to export the json file for your playlist. To do this, go to the Playsets tab, select your playlist, click on the 3 dots in the top right, click on share, then download and save the json file anywhere on your computer.
 
